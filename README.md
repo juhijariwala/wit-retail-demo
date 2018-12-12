@@ -1,1 +1,1 @@
-# wit-retail-demo
+# wit-retail-app
